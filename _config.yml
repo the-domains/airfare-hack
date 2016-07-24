@@ -1,9 +1,19 @@
-layout_spectrum: 0.11271387268789113
-typography_spectrum: 0.20161665068008006
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.6272401
 color:
-  brandStrength: 0.13827742007561028
-  lightness: 0.15636507677845657
-  saturation: 0.15135417296551168
+  saturation: 0.1513541729655117
+  brandStrength: 0.1382774200756103
   rhythmicContrast: 0.9182996582239866
   brandColors:
     - '#FF6700'
@@ -11,4 +21,6 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+  lightness: 0.1563650767784566
+layout_spectrum: 0.1127138726878911
 name: Airfare Hack
