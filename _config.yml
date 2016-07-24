@@ -1,0 +1,14 @@
+layout_spectrum: 0.11271387268789113
+typography_spectrum: 0.20161665068008006
+color:
+  brandStrength: 0.13827742007561028
+  lightness: 0.15636507677845657
+  saturation: 0.15135417296551168
+  rhythmicContrast: 0.9182996582239866
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+name: Airfare Hack
