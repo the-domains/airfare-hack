@@ -4,8 +4,15 @@
         <description><![CDATA[AirfareHack]]></description>
         <link>https://thegrid.ai/airfare-hack/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 02:46:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2016 02:57:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/airfare-hack/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Low fares ahead!]]></title>
+            <description><![CDATA[<article><h1>Low fares ahead!</h1><p>That time of year is coming. save your pennies! The best time of year to travel at a bargain is coming soon. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5aa4c4d-07f4-4354-8eaa-7240d8c9d494.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5aa4c4d-07f4-4354-8eaa-7240d8c9d494.jpg</link>
+            <guid isPermaLink="false">3689aaa8-68a7-46e8-a171-3fa0304315e4</guid>
+            <pubDate>Wed, 27 Jul 2016 02:57:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6ad21ac-5d5a-4a2d-a92b-1bbbc70666eb.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.secretflying.com/2016/07/singapore-madrid-milan-paris-479-usd-roundtrip/</link>
             <guid isPermaLink="false">6029da76-b42d-4705-aebb-f57844ee2b26</guid>
             <pubDate>Sun, 24 Jul 2016 02:33:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Guide To Great Coffee In Kichijoji, Tokyo - Sprudge]]></title>
-            <description><![CDATA[<article><h1>A Guide To Great Coffee In Kichijoji, Tokyo - Sprudge</h1><p>Spring in Japan is marked by the cherry blossom, when pink clouds of the blooming flower paint on a canvas of clear blue sky. It's a time to celebrate the beautiful transience of life, which the locals often do at picnics in the park-known as -under a gentle rain of falling petals.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5deb09d7253cefed9c88b1d256141d53382a8173.jpg"></article>]]></description>
-            <link>http://sprudge.com/kichijoji-coffee-guide-96034.html</link>
-            <guid isPermaLink="false">4eea6830-c66e-4418-bfd6-cc7c64997d1c</guid>
-            <pubDate>Sun, 24 Jul 2016 02:22:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
