@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.8501611
 color:
   saturation: 1
   brandStrength: 0.1382774200756103
-  lightness: 0.7771214
+  rhythmicContrast: 0.6686359
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  rhythmicContrast: 0.6686359
-typography_spectrum: 0.3333333
+  lightness: 0.7771214
 layout_spectrum: 0.8104189
 name: Airfare Hack
