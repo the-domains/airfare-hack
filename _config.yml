@@ -10,7 +10,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.8501611
 color:
   saturation: 1
   brandStrength: 0.1382774200756103
@@ -22,5 +21,6 @@ color:
     - '#3A6EA5'
     - '#004E98'
   lightness: 0.7771214
-layout_spectrum: 0.8104189
+typography_spectrum: 0.8501611
+layout_spectrum: 1
 name: Airfare Hack
